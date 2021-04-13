@@ -1,0 +1,12 @@
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\bin\Debug\DTO.dll
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\bin\Debug\DTO.pdb
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\obj\Debug\DTO.dll
+F:\KhoaThucChien\MoHInh3Lop\View\DTO\obj\Debug\DTO.pdb
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\bin\Debug\DTO.dll
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\bin\Debug\DTO.pdb
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\obj\Debug\DTO.dll
+F:\KhoaThucChien\MoHInh3Lop\BackEnd_GridView\DTO\obj\Debug\DTO.pdb
